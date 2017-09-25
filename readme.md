@@ -1,6 +1,6 @@
-# Nerdstein.net 2017 Design
+# cosmicdreams' fork of the Nerdstein.net 2017 Design
 
-This repository provides all design-related assets for my site redesign. This readme explains how 
+This repository provides all design-related assets for nerdstein's site redesign. This readme explains how 
 to participate.
 
 There are two main parts of this code repository. 
